@@ -8,7 +8,6 @@ Space Shooter is an exciting 2D arcade game where the player controls a spaceshi
 ## Features
 
 - Player-controlled spaceship with movement and shooting
-- Enemy ships with simple AI
 - Increasing difficulty and score tracking
 - Smooth SFML graphics rendering
 - Score and game-over screen
