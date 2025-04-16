@@ -7,10 +7,19 @@ Space Shooter is an exciting 2D arcade game where the player controls a spaceshi
 
 ## Features
 
-- Player-controlled spaceship with movement and shooting
+- Player-controlled spaceship with smooth left/right tilt movement
+- Visually improved enemies for a better gameplay experience
+- Bullet shooting with right mouse click
 - Increasing difficulty and score tracking
 - Smooth SFML graphics rendering
 - Score and game-over screen
+
+## Modifications
+
+Recent updates and improvements made to the game:
+- **Enhanced Enemy Design**: Enemy ships now have a more detailed and realistic appearance.
+- **Spacecraft Tilt Animation**: The player spaceship now tilts slightly when moving left or right, adding to the visual polish and responsiveness.
+- **Updated Controls**: Changed shooting mechanism to right mouse click for better ergonomics.
 
 ## Installation
 
@@ -33,8 +42,8 @@ Space Shooter is an exciting 2D arcade game where the player controls a spaceshi
 
 ## Controls
 
-- **Arrow keys** to move
-- **right click** to shoot
+- **Arrow keys** to move (spacecraft tilts when moving)
+- **Right click** to shoot
 - **Esc** to quit
 
 ## License
