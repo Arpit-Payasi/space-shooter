@@ -35,7 +35,7 @@ Space Shooter is an exciting 2D arcade game where the player controls a spaceshi
 ## Controls
 
 - **Arrow keys** to move
-- **Spacebar** to shoot
+- **right click** to shoot
 - **Esc** to quit
 
 ## License
