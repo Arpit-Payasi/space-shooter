@@ -89,15 +89,13 @@ When a bullet hits an enemy:
   - Install SFML from [https://www.sfml-dev.org/download.php](https://www.sfml-dev.org/download.php)
 
 ---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## How to Run
 
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/Arpit-Payasi/space-shooter.git
-cd space-shoote
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+cd space-shooter 
