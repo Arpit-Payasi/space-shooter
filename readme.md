@@ -31,11 +31,10 @@ A 2D space shooter game developed in **C++ using SFML**, featuring smooth player
 
 ---
 
-## Screenshots
-
-*(Include screenshots if available)*
-
----
+## Modifications we did
+- Enemy shape enhanced made it circular and added aura on the outer sides and enemy glows up sinusoidally.
+- A 10 degrees tilt either on left or right side when move in left or right.
+- Earliar spaceship used to get outside the diplay screen but now we have fixed it and it do not go out of bounds.
 
 ## Code Structure
 
@@ -89,6 +88,14 @@ When a bullet hits an enemy:
   - Install SFML from [https://www.sfml-dev.org/download.php](https://www.sfml-dev.org/download.php)
 
 ---
+
+## Screen shots before and after modifications
+![Screenshot 2025-04-17 121258](https://github.com/user-attachments/assets/83038b62-e52f-42ae-a901-133d90a7a26a)
+
+![Screenshot 2025-04-17 121214](https://github.com/user-attachments/assets/3bd1ffbf-c174-49c7-abb6-556571fa1346)
+
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
