@@ -91,7 +91,8 @@ When a bullet hits an enemy:
 ---
 
 ## Screen shots before and after modifications
-![Screenshot 2025-04-17 121258](https://github.com/user-attachments/assets/83038b62-e52f-42ae-a901-133d90a7a26a)
+![Screenshot 2025-04-17 123217](https://github.com/user-attachments/assets/66ea1fe1-b30c-41b8-b74e-5a14bdc6735e)
+
 
 ![WhatsApp Image 2025-04-17 at 12 24 00 PM](https://github.com/user-attachments/assets/9e0f40f3-b182-413f-bd31-6d53e94893ac)
 
