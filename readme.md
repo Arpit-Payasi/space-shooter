@@ -9,7 +9,7 @@ A 2D space shooter game developed in **C++ using SFML**, featuring smooth player
 
 ## Features
 
-- **Player spaceship** movement with keyboard input (arrow keys / WASD).
+- **Player spaceship** movement with keyboard input (WASD).
 - **Smooth rotation** on movement for immersive gameplay.
 - **Bullet shooting** with cooldown system.
 - **Randomized enemies** with health, damage, and unique colors.
@@ -35,6 +35,7 @@ A 2D space shooter game developed in **C++ using SFML**, featuring smooth player
 - Enemy shape enhanced made it circular and added aura on the outer sides and enemy glows up sinusoidally.
 - A 10 degrees tilt either on left or right side when move in left or right.
 - Earliar spaceship used to get outside the diplay screen but now we have fixed it and it do not go out of bounds.
+- Also background image also changed to a more realistic version.
 
 ## Code Structure
 
