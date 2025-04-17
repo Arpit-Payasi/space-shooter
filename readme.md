@@ -98,4 +98,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/Arpit-Payasi/space-shooter.git
-cd space-shooter 
+cd space-shooter
+
+g++ -o game.exe *.cpp -lsfml-graphics -lsfml-window -lsfml-system
+./spaceshooter.exe
